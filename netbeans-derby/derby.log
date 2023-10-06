@@ -1,0 +1,18 @@
+Thu Oct 05 22:32:11 BRT 2023 : Apache Derby Servidor de Rede - 10.14.2.0 - (1828579) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Thu Oct 05 22:32:11 BRT 2023:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instância a816c00e-018b-029d-16da-00004e193767
+no diretório de banco de dados /home/ice/Downloads/alice/atv4/netbeans-derby/dcc192 
+
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.6+9-LTS-190
+user.dir=/home/ice/Downloads/alice/db-derby-10.14.2.0-bin
+os.name=Linux
+os.arch=amd64
+os.version=5.19.0-46-generic
+derby.system.home=/home/ice/Downloads/alice/atv4/netbeans-derby
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Oct 05 22:32:12 BRT 2023:
+Encerrando a instância a816c00e-018b-029d-16da-00004e193767
+Thu Oct 05 22:32:12 BRT 2023 Thread[DRDAConnThread_2,5,main] (DATABASE = dcc192), (DRDAID = {2}), Banco de dados 'dcc192' fechado.
